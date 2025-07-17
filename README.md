@@ -1,14 +1,14 @@
-<!-- FluxDev-Tech Header -->
+<!-- 🚀 FLUXDEV-TECH Glowing Title -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FBBF24&center=true&vCenter=true&width=1000&lines=🚀+FLUXDEV-TECH+🚀;Full-Stack+Web+%7C+Mobile+%7C+Game+Developer;Innovate.+Code.+Deploy." alt="FluxDev-Tech Animated Header">
+</h1>
+
+<!-- 💡 FluxDev-Tech Banner -->
 <div align="center">
   <img width="100%" alt="FluxDev-Tech" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png" />
 </div>
 
-<!-- Animated Text Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+John+Lawrence+V.+Martinez+👋;Full-Stack+Web+%7C+Mobile+%7C+Game+Developer;Always+learning+new+techs+🚀;" alt="Typing SVG" />
-</p>
-
-<!-- Animated Background Instead of Cat -->
+<!-- 🌌 Animated Glowing Background -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91513861/284765258-6491f630-66a0-43ff-84f4-f869ab36979e.gif" alt="FluxDev-Tech Background" width="80%" />
 </p>
@@ -18,31 +18,6 @@
 ### 👨‍💻 About Me
 
 Hi! I'm **John Lawrence V. Martinez**, a passionate and versatile **Full-Stack Developer** skilled in building dynamic and responsive applications across **Web**, **Mobile**, and **Game Development**. Whether it’s creating sleek front-ends, scalable APIs, or immersive games, I bring ideas to life with clean, efficient code. I'm always exploring new technologies, solving real-world problems, and growing as a developer. 🚀
-
----
-
-## 📊 GitHub Stats
-
-<!-- GitHub Profile Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&margin-w=15&row=1&column=7" alt="Trophies" />
-</p>
-
-<!-- GitHub Stats & Streak -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&border_radius=15&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats" height="180px"/>
-  <img src="https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight&hide_border=false" height="180px"/>
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&card_width=320" height="180px"/>
-</p>
-
-<p align="center"><i>📍 Dynamic metrics powered by GitHub's activity & language contributions.</i></p>
-
-`FluxDev-Tech`
-
 
 ---
 
