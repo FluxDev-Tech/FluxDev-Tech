@@ -1,6 +1,6 @@
 <!-- 🚀 FLUXDEV-TECH Glowing Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FBBF24&center=true&vCenter=true&width=1000&lines=🚀+FLUXDEV-TECH+🚀;Full-Stack+Web+%7C+Mobile+%7C+Game+Developer;Innovate.+Code.+Deploy." alt="FluxDev-Tech Animated Header">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FBBF24&center=true&vCenter=true&width=1000&lines=🚀+FLUXDEV-TECH+🚀;Full-Stack+Web+%7C+Mobile+%7C+Game+Developer;Innovate.+Code.+Deploy." alt="FluxDev-Tech">
 </h1>
 
 <!-- 💡 FluxDev-Tech Banner -->
