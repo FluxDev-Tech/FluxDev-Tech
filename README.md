@@ -21,14 +21,7 @@
 
 <!-- 🌌 Animated Glowing Background -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91513861/284765258-6491f630-66a0-43ff-84f4-f869ab36979e.gif" alt="FluxDev-Tech Background" width="80%" />
-</p>
-
----
-
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://www.facebook.com/share/1EPie7VovW/" alt="John Lawrence V. Martinez" width="200" style="border-radius: 50%; border: 3px solid #facc15;" />
+  <img src="fluxdev.png" alt="FluxDev-Tech Background" width="80%" />
 </p>
 
 ---
