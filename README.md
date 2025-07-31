@@ -115,30 +115,25 @@ Hi! I'm **John Lawrence V. Martinez**, a passionate and versatile **Full-Stack D
 
 <br/>
 
-<div align="center">
-
-  <br/><br/>
-
-  <!-- 🧠 Top Languages -->
+<p align="center">
+  <!-- 🧠 Top Languages (Reduced Size) -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluxdev-tech&layout=compact&theme=radical&border_radius=12&langs_count=8" 
-    alt="FluxDev Most Used Languages" 
-    width="100%" 
-    style="max-width: 500px; border-radius: 12px;" 
+    alt="Most Used Languages" 
+    width="300px"
   />
+</p>
 
-  <br/><br/>
+<br/>
 
-  <!-- 🏆 Trophies -->
+<p align="center">
+  <!-- 🏆 GitHub Trophies -->
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=fluxdev-tech&theme=radical&no-frame=true&column=6&margin-w=10" 
-    alt="FluxDev GitHub Trophies" 
-    width="100%" 
-    style="max-width: 1000px;" 
+    src="https://github-profile-trophy.vercel.app/?username=fluxdev-tech&theme=radical&no-frame=true&row=1&column=6&margin-w=10" 
+    alt="GitHub Trophies" 
+    width="95%"
   />
-
-</div>
-
+</p>
 
 ---
 
