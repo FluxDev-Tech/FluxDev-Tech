@@ -97,9 +97,6 @@ Hi! I'm **John Lawrence V. Martinez**, a passionate and versatile **Full-Stack D
 
 ---
 
-### 📫 Let's Connect!
-
-
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -111,34 +108,37 @@ Hi! I'm **John Lawrence V. Martinez**, a passionate and versatile **Full-Stack D
 
 <!-- 🚀 FluxDev-Tech GitHub Stats -->
 
-<h2 align="center">📊 FluxDev-Tech's GitHub Stats</h2>
+## ⚡ FluxDev Tech Dashboard
 
----
-<!--🖼️OCTOCAT-->
-<p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
----
+> 🚀 Welcome to my GitHub activity hub – live stats, usage analytics, and project footprint.  
+> 💡 Always building. Always learning. Always shipping.
+
+<br/>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=fluxdev-tech&show_icons=true&theme=radical&border_radius=20&rank_icon=github&include_all_commits=true&count_private=true" 
-          alt="FluxDev GitHub Stats" 
-          style="max-width: 100%; height: auto;" 
-        />
-      </td>
-      <td align="center">
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluxdev-tech&layout=compact&theme=radical&langs_count=10&border_radius=20" 
-          alt="Most Used Languages" 
-          style="max-width: 100%; height: auto;" 
-        />
-      </td>
-    </tr>
-  </table>
+
+  <br/><br/>
+
+  <!-- 🧠 Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluxdev-tech&layout=compact&theme=radical&border_radius=12&langs_count=8" 
+    alt="FluxDev Most Used Languages" 
+    width="100%" 
+    style="max-width: 500px; border-radius: 12px;" 
+  />
+
+  <br/><br/>
+
+  <!-- 🏆 Trophies -->
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=fluxdev-tech&theme=radical&no-frame=true&column=6&margin-w=10" 
+    alt="FluxDev GitHub Trophies" 
+    width="100%" 
+    style="max-width: 1000px;" 
+  />
+
 </div>
+
 
 ---
 
@@ -158,3 +158,4 @@ Hi! I'm **John Lawrence V. Martinez**, a passionate and versatile **Full-Stack D
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
