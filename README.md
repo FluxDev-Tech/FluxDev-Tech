@@ -71,9 +71,16 @@ Status  : Always Building 🚀
 ### Mobile Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=react,js,ts" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Native_Modules-444444?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_API_Integration-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
 
 ### Game Development
 
@@ -90,7 +97,7 @@ Status  : Always Building 🚀
 ### Tools & Environment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,androidstudio" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white"/>
 
 
