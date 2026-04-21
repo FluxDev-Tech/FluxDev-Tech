@@ -54,31 +54,45 @@ Status  : Always Building 🚀
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🎨 Frontend
+### Frontend (Web)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend
+### Backend (Web)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python" />
 </p>
 
-### 🗄️ Database
+### Mobile Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white"/>
+</p>
+
+### Game Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=godot,python" />
+</p>
+
+### Database
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
-### 🧰 Tools
+### Tools & Environment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm" />
-</p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white"/>
+
 
 ---
 
